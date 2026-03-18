@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0567-permutation-in-string) |
