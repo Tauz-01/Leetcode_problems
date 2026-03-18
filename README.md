@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tauz-01/Leetcode_problems/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Tauz-01/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Tauz-01/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Tauz-01/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tauz-01/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Tauz-01/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Tauz-01/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0567-permutation-in-string) |
