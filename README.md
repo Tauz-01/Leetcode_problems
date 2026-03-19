@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Tauz-01/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Tauz-01/Leetcode_problems/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tauz-01/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tauz-01/Leetcode_problems/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tauz-01/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Tauz-01/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Tauz-01/Leetcode_problems/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tauz-01/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tauz-01/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tauz-01/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
