@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tauz-01/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tauz-01/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Tauz-01/Leetcode_problems/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tauz-01/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Tauz-01/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Tauz-01/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0567-permutation-in-string) |
 ## String
@@ -102,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tauz-01/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tauz-01/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Tauz-01/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tauz-01/Leetcode_problems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Tauz-01/Leetcode_problems/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |
