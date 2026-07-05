@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tauz-01/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Tauz-01/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tauz-01/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Tauz-01/Leetcode_problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Tauz-01/Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/Tauz-01/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Tauz-01/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tauz-01/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tauz-01/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Tauz-01/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Tauz-01/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Tauz-01/Leetcode_problems/tree/master/0946-validate-stack-sequences) |
 ## Tree
 |  |
