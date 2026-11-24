@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Tauz-01/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tauz-01/Leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tauz-01/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tauz-01/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tauz-01/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Tauz-01/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauz-01/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tauz-01/Leetcode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tauz-01/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,5 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tauz-01/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tauz-01/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tauz-01/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Tauz-01/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
